@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/LuisDHernandez/LuisDHernandez.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Luis Hernandez. I am Cuban-American and have been in love with gaming and coding since I was a child. Now in my adulthood, I can chase a profession that is my dream come true. Every day that goes by I hope I can improve myself and help others see the greatness of programming and its applications everywhere. Currently, I am enrolled at Florida Gulf Coast University to pursue my B.S. in Software Engineering, and shortly after that, I plan on obtaining a M.S. in Software Engineering.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://github.com/LuisDHernandez 
+### Skills
+Java 8 / JavaFX
+C++
+Python
+HTML
+Object-Oriented Design, Analysis, and Programming
+SQLite and H2 Databases
+Teamwork
+Team Motivation
 
-### Markdown
+### Courses
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Calculus 1
+MAC 2311
 
-```markdown
-Syntax highlighted code block
+Calculus 2
+MAC 2312
 
-# Header 1
-## Header 2
-### Header 3
+Calculus 3
+MAC 2313
 
-- Bulleted
-- List
+Computer Organization and Assembly
+CDA 3104
 
-1. Numbered
-2. List
+Discrete Mathematics
+MAD 3107
 
-**Bold** and _Italic_ and `Code` text
+Engineering Entrepreneurship
+EGN 3641C
 
-[Link](url) and ![Image](src)
-```
+General Physics 1 and 2
+PHY 2048C and 2049C
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Intro to Computer Science
+COP 1500
 
-### Jekyll Themes
+Introduction to Programming
+COP 2006
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuisDHernandez/LuisDHernandez.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Object-Oriented Programming
+COP 3003
+
+Programming Methodology
+COP 2001
+
+Software Engineering Fundamentals
+CEN 3031
+
+### Clubs and Organizations
+
+###### Florida Gulf Coast University
+FGCU Software Engineering Club (SEC)
+- Vice Treasurer
+FGCU Gaming Hub
+Society of Hispanic Professional Engineers (SHPE)
+
+###### Palmetto Ridge High School
+Key Club
+Spanish Honor Society
+Model United Nations
+Chamber Strings Orchestra
+### Personal Projects
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+LinkedIN: www.linkedin.com/in/luis-d-hernandez
+Email: ldhernandez2446@eagle.fgcu.edu
