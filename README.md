@@ -16,39 +16,51 @@ Team Motivation
 ### Courses
 
 Calculus 1
+
 MAC 2311
 
 Calculus 2
+
 MAC 2312
 
 Calculus 3
+
 MAC 2313
 
 Computer Organization and Assembly
+
 CDA 3104
 
 Discrete Mathematics
+
 MAD 3107
 
 Engineering Entrepreneurship
+
 EGN 3641C
 
 General Physics 1 and 2
+
 PHY 2048C and 2049C
 
 Intro to Computer Science
+
 COP 1500
 
 Introduction to Programming
+
 COP 2006
 
 Object-Oriented Programming
+
 COP 3003
 
 Programming Methodology
+
 COP 2001
 
 Software Engineering Fundamentals
+
 CEN 3031
 
 ### Clubs and Organizations
