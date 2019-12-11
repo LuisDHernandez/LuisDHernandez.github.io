@@ -63,9 +63,13 @@ Society of Hispanic Professional Engineers (SHPE)
 
 ##### Palmetto Ridge High School
 Key Club
+
 Spanish Honor Society
+
 Model United Nations
+
 Chamber Strings Orchestra
+
 ### Personal Projects
 
 ### Support or Contact
