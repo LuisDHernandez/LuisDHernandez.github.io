@@ -54,8 +54,9 @@ CEN 3031
 ### Clubs and Organizations
 
 ###### Florida Gulf Coast University
-< FGCU Software Engineering Club (SEC)
-- Vice Treasurer />
+FGCU Software Engineering Club (SEC)
+- Vice Treasurer
+
 FGCU Gaming Hub
 Society of Hispanic Professional Engineers (SHPE)
 
