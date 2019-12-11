@@ -58,6 +58,7 @@ FGCU Software Engineering Club (SEC)
 - Vice Treasurer
 
 FGCU Gaming Hub
+
 Society of Hispanic Professional Engineers (SHPE)
 
 ###### Palmetto Ridge High School
