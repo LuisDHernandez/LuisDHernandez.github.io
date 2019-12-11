@@ -5,12 +5,19 @@ I am Luis Hernandez. I am Cuban-American and have been in love with gaming and c
 https://github.com/LuisDHernandez 
 ### Skills
 Java 8 / JavaFX
+
 C++
+
 Python
+
 HTML
+
 Object-Oriented Design, Analysis, and Programming
+
 SQLite and H2 Databases
+
 Teamwork
+
 Team Motivation
 
 ### Courses
